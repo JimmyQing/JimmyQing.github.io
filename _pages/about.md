@@ -55,18 +55,29 @@ Interested in graduate studies, internships or collaborations? Contact me！
   
 - `2023` Zhiwen Deng, **Qing Gao***, Zhaojie Ju, Xiang Yu. [Skeleton-Based Multi-Features and Multi-Stream Network for Real-Time Action Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10051660). *IEEE Sensors Journal*. Early Access, DOI: 10.1109/JSEN.2023.3246133, 2023.   
 
-- `2022` Wenrao Pang, **Qing Gao***, Yinan Zhao, Zhaojie Ju, Junjie Hu. [Skeleton-Based Multi-Features and Multi-Stream Network for Real-Time Action Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10051660). *IEEE Sensors Journal*. Early Access, DOI: 10.1109/JSEN.2023.3246133, 2023.     
+- `2022` Wenrao Pang, **Qing Gao***, Yinan Zhao, Zhaojie Ju, Junjie Hu. [BaSICNet: Lightweight 3D Hand Pose Estimation Network Based on Biomechanical Structure Information for Dexterous Manipulator Teleoperation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9993800). *IEEE Transactions on Cognitive and Developmental Systems*. Early Access, DOI: 10.1109/TCDS.2022.3230707, 2022.     
   
-  
-  
-  
-  
-  
-  
+- `2022` Junjie Hu, Chenyu Bao, Mete Ozay, Chenyou Fan, **Qing Gao**, Honghai Liu, Tin Lun Lam. [Deep Depth Completion from Extremely Sparse Data: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9984942). *IEEE Transactions on Pattern Analysis and Machine Intelligence*. Early Access, DOI: 10.1109/TPAMI.2022.3229090, 2022. 
 
+- `2022` **Qing Gao**, Jinyang Li, Yimin Zhu, Siyue Wang, Jingshu Liufu, Jinguo Liu. [Hand gesture teleoperation for dexterous manipulators in space station by using monocular hand motion capture](https://www.sciencedirect.com/science/article/pii/S0094576522006543). *Acta Astronautica*. 204, 2022: 630-639. 
+  
+  
+  
+  
+  
+  
+  
 ### Conference
 ---
- 
+
+- `2022` Yinan Zhao, **Qing Gao***, Zhaojie Ju, Shiwu Lai, Fuzhang Luo. [Information Fusion Cascade Network for 3D Hand Pose Estimation Using Depth Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9991685). *2022 International Conference on High Performance Big Data and Intelligent Systems (HDIS)*. IEEE, Tianjin, China, 2022. 
+
+- `2022` **Qing Gao**, Zhaojie Ju. [A Lightweight Deep Learning Network for Mouth Cavity Object Visual Detection](https://ieeexplore.ieee.org/abstract/document/9991667). *2022 International Conference on High Performance Big Data and Intelligent Systems (HDIS)*. IEEE, Tianjin, China, 2022. 
+
+
+
+
+
 
 
 
