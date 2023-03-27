@@ -50,8 +50,6 @@ Interested in graduate studies, internships or collaborations? Contact me！
 
 ### Journal 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 - `2023` **Qing Gao**, Zhaojie Ju, Yongquan Chen, Qiwen Wang, Yinan Zhao, Shiwu Lai. [Parallel Dual-Hand Detection by Using Hand and Body Features for Robot Teleoperation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10059173). *IEEE Transactions on Human-Machine Systems*. 53(2), 2023: 417 - 426.  
   
