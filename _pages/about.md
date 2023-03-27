@@ -38,7 +38,12 @@ Interested in graduate studies, internships or collaborations? Contact me！
 - *2018.02 - 2019.02*, <a href="https://www.port.ac.uk/"><img class="svg" src="/images/Portsmouth_logo.png" width="20pt"></a> Overseas joint training, Computer Sciences, University of Portsmouth, Portsmouth U.K. 
 - *2013.09 - 2014.07*, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/ustc_logo.png" width="20pt"></a> Joint training, Automation, University of Science and Technology of China, Hefei China. 
 - *2009.09 - 2013.07*, <a href="https://www.lntu.edu.cn/"><img class="svg" src="/images/lntu_logo.png" width="20pt"></a> BSc, Automation, Liaoning Technical University, Fuxin China. 
- 
+
+# 💻 Work Experience
+- *2022.12 - Present*, <a href="https://www.sysu.edu.cn/"><img class="svg" src="/images/sysu_logo.png" width="20pt"></a> Associate Professor, School of Electronics and Communication Engineering, Sun Yat-sen University, China. 
+- *2021.02 - 2022.11*, <a href="https://www.cuhk.edu.cn/zh-hans"><img class="svg" src="/images/cuhksz_logo.png" width="20pt"></a> Associate Research Fellow, Shenzhen Institute of Artificial Intelligence and Robotics for Society, The Chinese University of Hong Kong, Shenzhen, China. 
+- *2020.02 - 2021.01*, <a href="https://www.cuhk.edu.cn/zh-hans"><img class="svg" src="/images/cuhksz_logo.png" width="20pt"></a> Assistant Research Fellow, Shenzhen Institute of Artificial Intelligence and Robotics for Society, The Chinese University of Hong Kong, Shenzhen, China.
+
 # 📝 Publications 
 
 ### English 
