@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qing Gao"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/qinggao.png"
   bio              : "Associate Professor"
-  location         : "Wuhan, China"
+  location         : "Shenzhen, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=bxhZ9k8AAAAJ&view_op=list_works"
   email            : "gaoqing2@mail.sysu.edu.cn"
-  #researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  researchgate     : "https://www.researchgate.net/profile/Qing-Gao-27"
   uri              : 
   bitbucket        :
   codepen          :
