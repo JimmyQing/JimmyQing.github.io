@@ -69,7 +69,15 @@ Interested in graduate studies, internships or collaborations? Contact me！
   
 - `2022` Yongquan Chen, Qiwen Wang, Chuliang Chi, Chengjiang Wang, **Qing Gao**, Heng Zhang, Zheng Li, Zonggao Mu, Ruihuan Xu, Zhenglong Sun, Huihuan Qian. [A collaborative robot for COVID-19 oropharyngeal swabbing](https://www.sciencedirect.com/science/article/pii/S0921889021002025). *Robotics and Autonomous Systems*. 148, 2022: 103917.
 
- 
+- `2022` **Qing Gao**, Yongquan Chen, Zhaojie Ju, Yi Liang. [Dynamic Hand Gesture Recognition Based on 3D Hand Pose Estimation for Human–Robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9427388). *IEEE Sensors Journal*. 22(18), 2022: 17421-17430. 
+
+- `2022` Yingbai Hu, Jian Li, Yongquan Chen, Qiwen Wang, Chuliang Chi, Heng Zhang, **Qing Gao**, Yuanmin Lan, Zheng Li, Zonggao Mu, Zhenglong Sun, Alois Knoll. [Design and Control of a Highly Redundant Rigid-flexible Coupling Robot to Assist the COVID-19 Oropharyngeal-Swab Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9363527). *IEEE Robotics and Automation Letters*. 7(2), 2022: 1856-1863. 
+
+- `2021` Jiahui Yu, Hongwei Gao, Dalin Zhou, Jinguo Liu, **Qing Gao**, Zhaojie Ju. [Deep Temporal Model-Based Identity-Aware Hand Detection for Space Human–Robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9583663). *IEEE Transactions on Cybernetics*. 52(12), 2021: 13738-13751. 
+
+- `2021` **Qing Gao**, Jinguo Liu, Zhaojie Ju. [Hand gesture recognition using multimodal data fusion and multiscale parallel convolutional neural network for human–robot interaction](https://onlinelibrary.wiley.com/doi/epdf/10.1111/exsy.12490). *Expert Systems*. 38(5), 2021: e12490. 
+
+
 
 
 
@@ -90,7 +98,9 @@ Interested in graduate studies, internships or collaborations? Contact me！
 
 - `2022` Qihao Hu, **Qing Gao#**, Hongwei Gao, Zhaojie Ju. [Skeleton-Based Hand Gesture Recognition by Using Multi-input Fusion Lightweight Network](https://link.springer.com/chapter/10.1007/978-3-031-13844-7_3). *15th International Conference Intelligent Robotics and Applications (ICIRA)*. Springer, Harbin, China, 2022. 
 
+- `2021` Jiahui Yu, Hongwei Gao, **Qing Gao**, Dalin Zhou, Zhaojie Ju. [Skeleton-based Human Activity Analysis Using Deep Neural Networks with Adaptive Representation Transformation](https://ieeexplore.ieee.org/abstract/document/9536067/). *2021 6th IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*. IEEE, Chongqing, China, 2021. 
 
+- `2021` Uchenna Emeoha Ogenyi, **Qing Gao**, Dalin Zhou, Charles Phiri, Zhaojie Ju, Honghai Liu. [Real-time collision avoidance in a dynamic environment for an industrial robotic arm](https://link.springer.com/chapter/10.1007/978-3-030-89098-8_11). *15th International Conference Intelligent Robotics and Applications (ICIRA)*. Springer, Yantai, China, 2021. 
 
 
 
