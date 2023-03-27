@@ -77,14 +77,21 @@ Interested in graduate studies, internships or collaborations? Contact me！
 
 - `2021` **Qing Gao**, Jinguo Liu, Zhaojie Ju. [Hand gesture recognition using multimodal data fusion and multiscale parallel convolutional neural network for human–robot interaction](https://onlinelibrary.wiley.com/doi/epdf/10.1111/exsy.12490). *Expert Systems*. 38(5), 2021: e12490. 
 
+- `2020` Heng Zhang, Yingbai Hu, Jianghua Duan, **Qing Gao**, Langcheng Huo, Qiwen Wang, Yongquan Chen. [Multisensor-based autonomous grasp planning for mobile manipulator navigation system with a novel soft gripper](https://www.hindawi.com/journals/complexity/2020/5497241/). *Complexity*. DOI: 10.1155/2020/5497241, 2020.
 
+- `2020` **Qing Gao**, Jinguo Liu, Zhaojie Ju. [Robust real-time hand detection and localization for space human–robot interaction based on deep learning](https://www.sciencedirect.com/science/article/pii/S0925231219314481). *Neurocomputing*. 390, 2020: 198-206. 
 
+- `2020` Xin Zhang, Jinguo Liu, **Qing Gao**, Zhaojie Ju. [Adaptive robust decoupling control of multi-arm space robots using time-delay estimation technique](https://link.springer.com/article/10.1007/s11071-020-05615-5). *Nonlinear Dynamics*. 100, 2020: 2449-2467. 
 
+- `2019` Fengwei Gu, Hongwei Gao, Jinguo Liu, **Qing Gao**, Zhaojie Ju. [Research on static vision-based target localization for astronaut assistant robots](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8824061). *IEEE Access*. 7, 2019: 2169-3536. 
 
+- `2019` **Qing Gao**, Jinguo Liu, Zhaojie Ju, Xin Zhang. [Dual-hand detection for human–robot interaction by a parallel network based on hand detection and body pose estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8643076). *IEEE Transactions on Industrial Electronics*. 66(12), 2019: 9663-9672.
 
-
+- `2017` **Qing Gao**, Jinguo Liu, Tongtong Tian, Yangmin Li. [Free-flying dynamics and control of an astronaut assistant robot based on fuzzy sliding mode algorithm](https://www.sciencedirect.com/science/article/pii/S0094576516304416). *Acta Astronautica*. 138, 2017: 462-474.
   
-  
+ - `2016` Jinguo Liu, **Qing Gao**, Zhiwei Liu, Yangmin Li. [Attitude control for astronaut assisted robot in the space station](https://link.springer.com/article/10.1007/s12555-014-0568-4). *International Journal of Control, Automation and Systems*. 14(4), 2016: 1082-1095. 
+
+ - `2014` Jinguo Liu, Yangmin Li, Yang Zhang, **Qing Gao**, Bin Zuo. [Dynamics and control of a parallel mechanism for active vibration isolation in space station](https://link.springer.com/article/10.1007/s11071-014-1242-3). *Nonlinear Dynamics*. 76, 2014: 1737-1751. 
   
   
 ### Conference
@@ -96,13 +103,19 @@ Interested in graduate studies, internships or collaborations? Contact me！
 
 - `2022` Guoxu Li, Lihong Dai, **Qing Gao**, Hongwei Gao, Zhaojie Ju. [Improvement of Unconstrained Appearance-Based Gaze Tracking with LSTM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9945153). *2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*. IEEE, Prague, Czech Republic, 2022. 
 
-- `2022` Qihao Hu, **Qing Gao#**, Hongwei Gao, Zhaojie Ju. [Skeleton-Based Hand Gesture Recognition by Using Multi-input Fusion Lightweight Network](https://link.springer.com/chapter/10.1007/978-3-031-13844-7_3). *15th International Conference Intelligent Robotics and Applications (ICIRA)*. Springer, Harbin, China, 2022. 
+- `2022` Qihao Hu, **Qing Gao#**, Hongwei Gao, Zhaojie Ju. [Skeleton-Based Hand Gesture Recognition by Using Multi-input Fusion Lightweight Network](https://link.springer.com/chapter/10.1007/978-3-031-13844-7_3). *15th International Conference on Intelligent Robotics and Applications (ICIRA)*. Springer, Harbin, China, 2022. 
 
 - `2021` Jiahui Yu, Hongwei Gao, **Qing Gao**, Dalin Zhou, Zhaojie Ju. [Skeleton-based Human Activity Analysis Using Deep Neural Networks with Adaptive Representation Transformation](https://ieeexplore.ieee.org/abstract/document/9536067/). *2021 6th IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*. IEEE, Chongqing, China, 2021. 
 
-- `2021` Uchenna Emeoha Ogenyi, **Qing Gao**, Dalin Zhou, Charles Phiri, Zhaojie Ju, Honghai Liu. [Real-time collision avoidance in a dynamic environment for an industrial robotic arm](https://link.springer.com/chapter/10.1007/978-3-030-89098-8_11). *15th International Conference Intelligent Robotics and Applications (ICIRA)*. Springer, Yantai, China, 2021. 
+- `2021` Uchenna Emeoha Ogenyi, **Qing Gao**, Dalin Zhou, Charles Phiri, Zhaojie Ju, Honghai Liu. [Real-time collision avoidance in a dynamic environment for an industrial robotic arm](https://link.springer.com/chapter/10.1007/978-3-030-89098-8_11). *15th International Conference on Intelligent Robotics and Applications (ICIRA)*. Springer, Yantai, China, 2021. 
 
+- `2020` **Qing Gao**, Uchenna Emeoha Ogenyi, Jinguo Liu, Zhaojie Ju, Honghai Liu. [A two-stream CNN framework for American sign language recognition based on multimodal data fusion](https://link.springer.com/chapter/10.1007/978-3-030-29933-0_9). *19th UK Workshop on Computational Intelligence (UKCI)*. Springer, Portsmouth, UK, 2020. 
 
+- `2018` **Qing Gao**, Jinguo Liu, Zhaojie Ju, Lu Zhang, Yangmin Li, Yuwang Liu. [Hand detection and location based on improved SSD for space human-robot interaction](https://link.springer.com/chapter/10.1007/978-3-319-97586-3_15). *11th International Conference on Intelligent Robotics and Applications (ICIRA)*. Springer, Newcastle, NSW, Australia, 2018. 
+
+- `2017` **Qing Gao**, Jinguo Liu, Zhaojie Ju, Yangmin Li, Tian Zhang, Lu Zhang. [Static hand gesture recognition with parallel CNNs for space human-robot interaction](https://link.springer.com/chapter/10.1007/978-3-319-65289-4_44). *10th International Conference on Intelligent Robotics and Applications (ICIRA)*. Springer, Wuhan, China, 2017. 
+
+- `2017` Yimeng Fu, Chenli Su, Jinguo Liu, **Qing Gao**, Tian Zhang, Tongtong Tian. [Vision-based autonomous docking for self-reconfigurable CubeSats](https://ieeexplore.ieee.org/abstract/document/7866418). *2016 IEEE International Conference on Robotics and Biomimetics (ROBIO)*. IEEE, Qingdao, China, 2016.
 
 
 
