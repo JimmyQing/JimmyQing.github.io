@@ -65,9 +65,16 @@ Interested in graduate studies, internships or collaborations? Contact me！
   
 - `2022` Siyue Wang, **Qing Gao#**, Jinguo Liu, Jingkai Feng, Jingshu Liufu. [3-DOF Position and Orientation Control of an Air Flotation Platform for Spacecraft Ground Microgravity Simulation by Using Double Closed-Loop Cascade PIDnn](https://www.hindawi.com/journals/ijae/2022/9322534/). *International Journal of Aerospace Engineering*. DOI: 10.1155/2022/9322534, 2022.
 
+- `2022` **Qing Gao#**, Xin Zhang, Wenrao Pang. [Fast and accurate hand visual detection by using a spatial-channel attention SSD for hand-based space robot teleoperation](https://www.hindawi.com/journals/ijae/2022/3396811/). *International Journal of Aerospace Engineering*. DOI: 10.1155/2022/3396811, 2022.  
   
-  
-  
+- `2022` Yongquan Chen, Qiwen Wang, Chuliang Chi, Chengjiang Wang, **Qing Gao**, Heng Zhang, Zheng Li, Zonggao Mu, Ruihuan Xu, Zhenglong Sun, Huihuan Qian. [A collaborative robot for COVID-19 oropharyngeal swabbing](https://www.sciencedirect.com/science/article/pii/S0921889021002025). *Robotics and Autonomous Systems*. 148, 2022: 103917.
+
+ 
+
+
+
+
+
   
   
   
