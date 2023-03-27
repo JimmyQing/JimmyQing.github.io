@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently an associate professor at [School of Electronics and Communication Engineering](https://sece.sysu.edu.cn/), [Sun Yat-Sen University](https://www.sysu.edu.cn/). Before joining Sun Yat-Sen University, I was an associate research fellow at [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans). I obtained my Ph.D. from [State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences](http://www.sia.cas.cn/) in 2020/01. My Ph.D. supervisors are [Prof. Yangmin Li](https://www.polyu.edu.hk/ise/people/academic-staff/y-m-li/) and [Prof. Jinguo Liu](https://people.ucas.edu.cn/~jgliu). I was a visitor of [Prof. Zhaojie Ju](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/zhaojie-ju)’s group at [the University of Portsmouth](https://www.port.ac.uk/), U.K. in 2018/02-2019/02. 
+I’m currently an associate professor at [School of Electronics and Communication Engineering](https://sece.sysu.edu.cn/), [Sun Yat-Sen University](https://www.sysu.edu.cn/). Before joining Sun Yat-Sen University, I was an associate research fellow at [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans). 
+
+I obtained my Ph.D. from [State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences](http://www.sia.cas.cn/) in 2020/01. My Ph.D. supervisors are [Prof. Yangmin Li](https://www.polyu.edu.hk/ise/people/academic-staff/y-m-li/) and [Prof. Jinguo Liu](https://people.ucas.edu.cn/~jgliu). I was a visitor of [Prof. Zhaojie Ju](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/zhaojie-ju)’s group at [the University of Portsmouth](https://www.port.ac.uk/), U.K. in 2018/02-2019/02. 
 
 My research interest includes: 
 - Machine vision
@@ -29,13 +31,14 @@ My research interest includes:
 
 My research is dedicated to realizing the intelligent perception, understanding and interaction of robots with multimodal human behavior (such as body action, hand gesture, face expression, and gaze orientation).
 
-Interested in graduate studies, internships or collaborations? Contact me.
+Interested in graduate studies, internships or collaborations? Contact me！
 
 # 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
+- *2013.09 - 2020.01*, <a href="http://www.sia.cas.cn/"><img class="svg" src="/images/SIA_logo.png" width="20pt"></a> Ph.D., Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang China. 
+- *2018.02 - 2019.02*, <a href="https://www.port.ac.uk/"><img class="svg" src="/images/Portsmouth_logo.png" width="20pt"></a> Overseas joint training, Computer Sciences, University of Portsmouth, Portsmouth U.K. 
+- *2013.09 - 2014.07*, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/ustc_logo.png" width="20pt"></a> Joint training, Automation, University of Science and Technology of China, Hefei China. 
+- *2009.09 - 2013.07*, <a href="https://www.lntu.edu.cn/"><img class="svg" src="/images/lntu_logo.png" width="20pt"></a> BSc, Automation, Liaoning Technical University, Fuxin China. 
  
-
 # 📝 Publications 
 
 ### English 
