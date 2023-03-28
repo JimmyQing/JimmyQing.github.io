@@ -122,9 +122,14 @@ Interested in graduate studies, internships or collaborations? Contact me！
 
 
 # 🏅 Honors and Awards
-- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
-- *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
+- `2020.08` Shenlong High-level Talent, Level C, Longgang district, Shenzhen city.
+- `2020.06` Overseas High-Caliber Personnel, Level C, Shenzhen City.
+- `2019.12` National Scholarship, Ministry of Education of the People's Republic of China.
+- `2019.05` Merit Student Model, Chinese Academy of Sciences University.
+- `2017.08` Outstanding Paper Award, International Conference on Intelligent Robotics andApplications (2017ICIRA).
+- `2017.05` Chinese Government Scholarship, China Scholarship Council (CSC).
+- `2015.07` Liaoning Province Natural Science Academic Achievement Second Prize. 
+- `2015.07` Merit Student, Chinese Academy of Sciences University.
 
 # 💬 Conferences
 
