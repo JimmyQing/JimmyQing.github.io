@@ -35,6 +35,8 @@ My research is dedicated to realizing the intelligent perception, understanding 
 
 Interested in graduate studies, internships or collaborations? Contact me！
 
+# 🔥 News
+
 # 🎓 Educations 
 - *2013.09 - 2020.01*, <a href="http://www.sia.cas.cn/"><img class="svg" src="/images/SIA_logo.png" width="20pt"></a> Ph.D., Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang China. 
 - *2018.02 - 2019.02*, <a href="https://www.port.ac.uk/"><img class="svg" src="/images/Portsmouth_logo.png" width="20pt"></a> Overseas joint training, Computer Sciences, University of Portsmouth, Portsmouth U.K. 
@@ -130,12 +132,12 @@ Interested in graduate studies, internships or collaborations? Contact me！
 
 # 🧑‍🎨 Collaborators
 - Yangmin Li, Professor, The Hong Kong Polytechnic University(HKPU), China.
-- Jinguo Liu, Professor, State Key Laboratory of Robotics, Shenyang Institute of Automation(SIA), Chinese Academy of Sciences(CAS), China.
+- Jinguo Liu, Professor, Shenyang Institute of Automation(SIA), Chinese Academy of Sciences(CAS), China.
 - Honghai Liu, Professor, Harbin Institute of Technology, Shenzhen(HIT), China.
 - Zhaojie Ju, Professor, University of Portsmouth, U.K.
 - Yu Languo, Professor, Sun Yat-Sen University, China.
 - Yongquan Chen, Professor, The Chinese University of Hong Kong, Shenzhen(CUHKSZ), China.
-- Xin Zhang, Associate Professor, State Key Laboratory of Robotics, Shenyang Institute of Automation(SIA), Chinese Academy of Sciences(CAS), China.
+- Xin Zhang, Associate Professor, Shenyang Institute of Automation(SIA), Chinese Academy of Sciences(CAS), China.
 - Yuquan Leng, Research Associate Professor, Southern University of Science and Technology(SUSTC), China.
 - Chunwei Tian, Associate Professor, Northwestern Polytechnical University(NWPU), China.
 - Kairu Li, Associate Professor, Shenyang University of Technology, China.
@@ -180,9 +182,24 @@ Interested in graduate studies, internships or collaborations? Contact me！
 - Institute of Electrical and Electronics Engineers (IEEE) Member
 - China Computer Federation (CCF) Member
 
+# 📚 Teaching
 
-# 🏭 Internships
-- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
-- *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
-- *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
+- Undergraduate course, MATLAB Programming for Engineers
+- Undergraduate course, Image Processing Experiments
+
+
+# 🧑‍🧑‍ Teams
+
+### Supervisor for Postgraduates
+---
+
+- Zengrong Lin, Sun Yat-Sen University
+- Jing Hu, Sun Yat-Sen University
+- Zengwen Deng, Chongqing University of Posts and Telecommunications
+- Rongtian Huo, Chongqing University of Posts and Telecommunications
+- Yuhang Xu, Chongqing University of Posts and Telecommunications
+- Xiaowen You, Shenyang Ligong University
+- Meiqi Zhang, Shenyang Ligong University
+- Zihang Chenyin, Wuhan University of Technology
+
   
