@@ -118,9 +118,6 @@ Interested in graduate studies, internships or collaborations? Contact me！
 - `2017` Yimeng Fu, Chenli Su, Jinguo Liu, **Qing Gao**, Tian Zhang, Tongtong Tian. [Vision-based autonomous docking for self-reconfigurable CubeSats](https://ieeexplore.ieee.org/abstract/document/7866418). *2016 IEEE International Conference on Robotics and Biomimetics (ROBIO)*. IEEE, Qingdao, China, 2016.
 
 
-
-
-
 # 🏅 Honors and Awards
 - `2020.08` Shenlong High-level Talent, Level C, Longgang district, Shenzhen city.
 - `2020.06` Overseas High-Caliber Personnel, Level C, Shenzhen City.
@@ -150,11 +147,38 @@ Interested in graduate studies, internships or collaborations? Contact me！
 - Jiahui Yu, postdoctor, Zhejiang University, China.
 
 
-# 💬 Conferences
+# 💬 Academic Activities
 
-- *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
-- *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
-- *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
+### Guest Editor
+---
+
+- "Electronics" Special Issue on "Deep Learning for Speech Denoising", 2023.
+- "Frontiers in Robotics and AI" Research Topicson "Human-Centered Robot Vision and Artificial Perception", 2023.
+- "Frontiers in Robotics and AI" Research Topicson "Visual Human-Robot Interaction and Applications", 2022.
+- "International Journal of Aerospace Engineering" Special Issue on "Human-Robot Interaction and Collaboration for Space On-Orbit Servicing", 2022.
+
+### Session Chair
+---
+
+- International Conference on Intelligent Robotics and Applications (ICIRA), 2022.
+- International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM), 2022.
+- Asian Conference on Artificial Intelligence Technology (ACAIT), 2022.
+
+### Reviewer
+---
+
+- IEEE Transactions on Industrial Electronics
+- IEEE Transactions on Industrial Informatics
+- IEEE Transactions on Cybernetics
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Human-Machine Systems
+- IEEE Transactions on Cognitive and Developmental Systems
+
+### Member
+---
+
+- Institute of Electrical and Electronics Engineers (IEEE) Member
+- China Computer Federation (CCF) Member
 
 
 # 🏭 Internships
