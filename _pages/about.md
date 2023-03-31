@@ -132,7 +132,23 @@ Interested in graduate studies, internships or collaborations? Contact me！
 - `2015.07` Merit Student, Chinese Academy of Sciences University.
 
 # 🧑‍🎨 Collaborators
-- 
+- Yangmin Li, Professor, The Hong Kong Polytechnic University(HKPU), China.
+- Jinguo Liu, Professor, State Key Laboratory of Robotics, Shenyang Institute of Automation(SIA), Chinese Academy of Sciences(CAS), China.
+- Honghai Liu, Professor, Harbin Institute of Technology, Shenzhen(HIT), China.
+- Zhaojie Ju, Professor, University of Portsmouth, U.K.
+- Yu Languo, Professor, Sun Yat-Sen University, China.
+- Yongquan Chen, Professor, The Chinese University of Hong Kong, Shenzhen(CUHKSZ), China.
+- Xin Zhang, Associate Professor, State Key Laboratory of Robotics, Shenyang Institute of Automation(SIA), Chinese Academy of Sciences(CAS), China.
+- Yuquan Leng, Research Associate Professor, Southern University of Science and Technology(SUSTC), China.
+- Chunwei Tian, Associate Professor, Northwestern Polytechnical University(NWPU), China.
+- Kairu Li, Associate Professor, Shenyang University of Technology, China.
+- Yiming Jiang, Associate Professor, Hunan University, China.
+- Junjie Hu, Assistant Research Fellow, Shenzhen Institute of Artificial Intelligence and Robotics for Society(AIRS), China.
+- Disi Chen, Lecturer, University of the West of England, U.K.
+- Dongxu Gao, Lecturer, University of Portsmouth, U.K.
+- Bangli Liu, Lecturer, De Montfort University, U.K.
+- Jiahui Yu, postdoctor, Zhejiang University, China.
+
 
 # 💬 Conferences
 
