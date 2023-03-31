@@ -120,6 +120,12 @@ Interested in graduate studies, internships or collaborations? Contact me！
 - `2017` Yimeng Fu, Chenli Su, Jinguo Liu, **Qing Gao**, Tian Zhang, Tongtong Tian. [Vision-based autonomous docking for self-reconfigurable CubeSats](https://ieeexplore.ieee.org/abstract/document/7866418). *2016 IEEE International Conference on Robotics and Biomimetics (ROBIO)*. IEEE, Qingdao, China, 2016.
 
 
+### Book
+---
+
+- 冷雨泉，**高庆**，闫丹琪. 《机器学习入门与实战——Python实践应用》，清华大学出版社，2023.
+
+
 # 🏅 Honors and Awards
 - `2020.08` Shenlong High-level Talent, Level C, Longgang district, Shenzhen city.
 - `2020.06` Overseas High-Caliber Personnel, Level C, Shenzhen City.
