@@ -195,7 +195,8 @@ Interested in graduate studies, internships or collaborations? Contact me！
 
 - Zengrong Lin, Sun Yat-Sen University
 - Jing Hu, Sun Yat-Sen University
-- Zengwen Deng, Chongqing University of Posts and Telecommunications
+- Yinan Zhao, Tongji University
+- Zhiwen Deng, Chongqing University of Posts and Telecommunications
 - Rongtian Huo, Chongqing University of Posts and Telecommunications
 - Yuhang Xu, Chongqing University of Posts and Telecommunications
 - Xiaowen You, Shenyang Ligong University
