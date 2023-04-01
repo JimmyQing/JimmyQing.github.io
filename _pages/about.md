@@ -23,7 +23,7 @@ I’m currently an associate professor at [School of Electronics and Communicati
 
 I obtained my Ph.D. from [State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences](http://www.sia.cas.cn/) in 2020/01. My Ph.D. supervisors are [Prof. Yangmin Li](https://www.polyu.edu.hk/ise/people/academic-staff/y-m-li/) and [Prof. Jinguo Liu](https://people.ucas.edu.cn/~jgliu). I was a visitor of [Prof. Zhaojie Ju](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/zhaojie-ju)’s group at [the University of Portsmouth](https://www.port.ac.uk/), U.K. in 2018/02-2019/02. 
 
-My research interest includes: 
+My research interests include: 
 - Machine vision
 - Pattern recognition
 - Human-robot interaction
@@ -124,6 +124,14 @@ Interested in graduate studies, internships or collaborations? Contact me！
 ---
 
 - 冷雨泉，**高庆**，闫丹琪. 《机器学习入门与实战——Python实践应用》，清华大学出版社，2023.
+
+# 🛠️ Project
+
+- "Research on Teleoperation of Dexterous Robots Based on Visual Gesture Behavior Analysis", National Natural Science Foundation of China, ¥240k, PI, 01/2021 – 12/2023.
+- "Oral Image Analysis Theory and Application Research Based on Deep Learning", Guangdong Basic and Applied Basic Research Foundation, ¥100k, PI, 01/2022 – 12/2024.
+- "Research on Interactive Stroke Hand Rehabilitation Technology Based on Multi-Source Perception Fusion", Shenzhen Science and Technology Program, ¥300k, PI, 04/2022 – 04/2024.
+- "Research and development of key technologies for port empty container intelligent detection equipment", Shenzhen Science and Technology Program, ¥3Million, Co-PI, 01/2022 – 12/2023.
+- "Research on human-centered multimodal perception, cognition and interaction of robot vision", Sun Yat-sen University "Hundred Talents Program" scientific research start-up project, ¥600k, PI, 03/2023 – 03/2026.
 
 
 # 🏅 Honors and Awards
