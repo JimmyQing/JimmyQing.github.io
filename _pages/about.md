@@ -218,5 +218,3 @@ Interested in graduate studies, internships or collaborations? Contact me！
 - Xiaowen You, Shenyang Ligong University
 - Meiqi Zhang, Shenyang Ligong University
 - Zihang Chenyin, Wuhan University of Technology
-
-  
