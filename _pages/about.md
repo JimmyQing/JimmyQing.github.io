@@ -24,14 +24,11 @@ I’m currently an associate professor at [School of Electronics and Communicati
 I obtained my Ph.D. from [State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences](http://www.sia.cas.cn/) in 2020/01. My Ph.D. supervisors are [Prof. Yangmin Li](https://www.polyu.edu.hk/ise/people/academic-staff/y-m-li/) and [Prof. Jinguo Liu](https://people.ucas.edu.cn/~jgliu). I was a visitor of [Prof. Zhaojie Ju](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/zhaojie-ju)’s group at [the University of Portsmouth](https://www.port.ac.uk/), U.K. in 2018/02-2019/02. 
 
 My research interests include: 
-- Machine vision
-- Pattern recognition
-- Human-robot interaction
-- Deep learning
-- Multimodal perception
-- Action recognition
+- **Machine Vision**: Human Parts Detection, Body Pose Estimation, Action Recognition, Multimodal Perception
+- **Machine Learning**: Deep Learning, Pattern Recognition
+- **Robotics**: Human-Robot Interaction, Bionic Robot Teleoperation, Skill Transfer
 
-My research is dedicated to realizing the intelligent perception, understanding and interaction of robots with multimodal human behavior (such as body action, hand gesture, face expression, and gaze orientation).
+My research is dedicated to realizing the intelligent perception, cognition, and interaction of robots to multimodal human behaviors (such as body action, hand gesture, face expression, and gaze orientation).
 
 **Interested in graduate studies, internships or collaborations? Contact me！**
 
