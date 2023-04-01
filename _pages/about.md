@@ -50,7 +50,7 @@ Interested in graduate studies, internships or collaborations? Contact me！
 
 # 📝 Publications 
 
-### Journal 
+### Journals
 ---
 
 - `2023` **Qing Gao**, Zhaojie Ju, Yongquan Chen, Qiwen Wang, Yinan Zhao, Shiwu Lai. [Parallel Dual-Hand Detection by Using Hand and Body Features for Robot Teleoperation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10059173). *IEEE Transactions on Human-Machine Systems*. 53(2), 2023: 417-426.  
@@ -96,7 +96,7 @@ Interested in graduate studies, internships or collaborations? Contact me！
  - `2014` Jinguo Liu, Yangmin Li, Yang Zhang, **Qing Gao**, Bin Zuo. [Dynamics and control of a parallel mechanism for active vibration isolation in space station](https://link.springer.com/article/10.1007/s11071-014-1242-3). *Nonlinear Dynamics*. 76, 2014: 1737-1751. 
   
   
-### Conference
+### Conferences
 ---
 
 - `2022` Yinan Zhao, **Qing Gao#**, Zhaojie Ju, Shiwu Lai, Fuzhang Luo. [Information Fusion Cascade Network for 3D Hand Pose Estimation Using Depth Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9991685). *2022 International Conference on High Performance Big Data and Intelligent Systems (HDIS)*. IEEE, Tianjin, China, 2022. 
@@ -120,12 +120,12 @@ Interested in graduate studies, internships or collaborations? Contact me！
 - `2017` Yimeng Fu, Chenli Su, Jinguo Liu, **Qing Gao**, Tian Zhang, Tongtong Tian. [Vision-based autonomous docking for self-reconfigurable CubeSats](https://ieeexplore.ieee.org/abstract/document/7866418). *2016 IEEE International Conference on Robotics and Biomimetics (ROBIO)*. IEEE, Qingdao, China, 2016.
 
 
-### Book
+### Books
 ---
 
 - 冷雨泉，**高庆**，闫丹琪. 《机器学习入门与实战——Python实践应用》，清华大学出版社，2023.
 
-# 🛠️ Project
+# 🛠️ Projects
 
 - "Research on Teleoperation of Dexterous Robots Based on Visual Gesture Behavior Analysis", National Natural Science Foundation of China, ¥240k, PI, 01/2021 – 12/2023.
 - "Oral Image Analysis Theory and Application Research Based on Deep Learning", Guangdong Basic and Applied Basic Research Foundation, ¥100k, PI, 01/2022 – 12/2024.
