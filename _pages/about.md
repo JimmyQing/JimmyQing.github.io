@@ -37,7 +37,7 @@ My research is dedicated to realizing the intelligent perception, understanding 
 
 # 🔥 News
 
--
+- `2023.04.01` We are hosting a Research Topic about "Human-Centered Robot Vision and Artificial Perception" on "Frontiers in Robotics and AI". Welcome to submit articles to our Research Topic!
 
 # 🎓 Educations 
 - *2013.09 - 2020.01*, <a href="http://www.sia.cas.cn/"><img class="svg" src="/images/SIA_logo.png" width="20pt"></a> Ph.D., Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang China. 
