@@ -33,7 +33,7 @@ My research interests include:
 
 My research is dedicated to realizing the intelligent perception, understanding and interaction of robots with multimodal human behavior (such as body action, hand gesture, face expression, and gaze orientation).
 
-Interested in graduate studies, internships or collaborations? Contact me！
+**Interested in graduate studies, internships or collaborations? Contact me！**
 
 # 🔥 News
 
