@@ -151,7 +151,7 @@ My research is dedicated to realizing the intelligent perception, understanding 
 - Jinguo Liu, Professor, Shenyang Institute of Automation(SIA), Chinese Academy of Sciences(CAS), China.
 - Honghai Liu, Professor, Harbin Institute of Technology, Shenzhen(HIT), China.
 - Zhaojie Ju, Professor, University of Portsmouth, U.K.
-- Yu Languo, Professor, Sun Yat-Sen University, China.
+- Yulan Guo, Professor, Sun Yat-Sen University, China.
 - Yongquan Chen, Professor, The Chinese University of Hong Kong, Shenzhen(CUHKSZ), China.
 - Xin Zhang, Associate Professor, Shenyang Institute of Automation(SIA), Chinese Academy of Sciences(CAS), China.
 - Yuquan Leng, Research Associate Professor, Southern University of Science and Technology(SUSTC), China.
