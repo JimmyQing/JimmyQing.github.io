@@ -34,6 +34,7 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 
 # 🔥 News
 
+- `2023.04.15` We are hosting a Conference Special Session about "[Human-centric Technologies for Seamless Human-robot Collaboration](https://icira2023.org/specialsession.html)" on the [16th International Conference on Intelligent Robotics and Applications (ICIRA)](https://icira2023.org/index.html). Welcome to submit articles to our Special Session!
 - `2023.04.01` We are hosting a Research Topic about "[Human-Centered Robot Vision and Artificial Perception](https://www.frontiersin.org/research-topics/53324/human-centered-robot-vision-and-artificial-perception)" on "Frontiers in Robotics and AI". Welcome to submit articles to our Research Topic!
 
 # 🎓 Educations 
