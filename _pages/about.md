@@ -165,6 +165,10 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 
 # 💬 Academic Activities
 
+### Associate Editor
+
+- Journal of Intelligent & Fuzzy Systems
+
 ### Guest Editor
 ---
 
