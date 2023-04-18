@@ -180,6 +180,7 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 ### Session Chair
 ---
 
+- International Conference on Intelligent Robotics and Applications (ICIRA), 2023.
 - International Conference on Intelligent Robotics and Applications (ICIRA), 2022.
 - International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM), 2022.
 - Asian Conference on Artificial Intelligence Technology (ACAIT), 2022.
