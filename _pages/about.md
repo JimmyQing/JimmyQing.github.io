@@ -33,7 +33,9 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 **Interested in graduate studies, internships or collaborations? Contact me！**
 
 # 🔥 News
-
+- `2023.07.10` Our paper "Skeleton-based Multi-feature Sharing Real-time Action Recognition Network for Human-robot Interaction" won "Best Paper Award in Advanced Robotics" in the 2023 ICARM! 
+- `2023.07.08` Our 2 papers were accepted by the 8th International Conference on Advanced Robotics & Mechatronics (2023ICARM).
+- `2023.07.05` Our 4 papers were accepted by the 16th International Conference on Intelligent Robotics and Applications (2023 ICIRA).
 - `2023.04.15` We are hosting a Conference Special Session about "[Human-centric Technologies for Seamless Human-robot Collaboration](https://icira2023.org/specialsession.html)" on the [16th International Conference on Intelligent Robotics and Applications (ICIRA)](https://icira2023.org/index.html). Welcome to submit articles to our Special Session!
 - `2023.04.01` We are hosting a Research Topic about "[Human-Centered Robot Vision and Artificial Perception](https://www.frontiersin.org/research-topics/53324/human-centered-robot-vision-and-artificial-perception)" on "Frontiers in Robotics and AI". Welcome to submit articles to our Research Topic!
 
@@ -135,11 +137,12 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 
 
 # 🏅 Honors and Awards
+- `2023.08` Best Paper Award in Advanced Robotics, International Conference on Advanced Robotics & Mechatronics (2023ICARM).
 - `2020.08` Shenlong High-level Talent, Level C, Longgang district, Shenzhen city.
 - `2020.06` Overseas High-Caliber Personnel, Level C, Shenzhen City.
 - `2019.12` National Scholarship, Ministry of Education of the People's Republic of China.
 - `2019.05` Merit Student Model, Chinese Academy of Sciences University.
-- `2017.08` Outstanding Paper Award, International Conference on Intelligent Robotics andApplications (2017ICIRA).
+- `2017.08` Outstanding Paper Award, International Conference on Intelligent Robotics and Applications (2017ICIRA).
 - `2017.05` Chinese Government Scholarship, China Scholarship Council (CSC).
 - `2015.07` Liaoning Province Natural Science Academic Achievement Second Prize. 
 - `2015.07` Merit Student, Chinese Academy of Sciences University.
