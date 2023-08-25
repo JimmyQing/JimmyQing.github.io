@@ -33,6 +33,7 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 **Interested in graduate studies, internships or collaborations? Contact me！**
 
 # 🔥 News
+- `2023.08.25` Our paper "Dual Hand Motion Capture by Using Biologically Inspiration for Bionic Bimanual Robot Teleoperation" has been accepted by Cyborg and Bionic Systems!
 - `2023.08.25` Our paper "Mouth Cavity Visual Analysis Based on Deep Learning for Oropharyngeal Swab Robot Sampling" has been accepted by IEEE Transactions on Human-Machine Systems! 
 - `2023.07.10` Our paper "Skeleton-based Multi-feature Sharing Real-time Action Recognition Network for Human-robot Interaction" won "Best Paper Award in Advanced Robotics" in the 2023 ICARM! 
 - `2023.07.08` Our 2 papers were accepted by the 8th International Conference on Advanced Robotics & Mechatronics (2023ICARM).
