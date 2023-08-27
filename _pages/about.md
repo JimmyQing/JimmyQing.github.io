@@ -103,6 +103,10 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 ### Conferences
 ---
 
+- `2023` Zhiwen Deng, **Qing Gao#**, Xiang Yu, Zhaojie Ju, Junkang Chen. [Skeleton-based Multi-feature Sharing Real-time Action Recognition Network for Human-robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10218912). *The 8th International Conference on Advanced Robotics & Mechatronics (2023ICARM)*. IEEE, Sanya, China, 2023.
+
+- `2023` Yinan Zhao, **Qing Gao#**, Zhaojie Ju, Jian Zhou. [Skeleton-Based Action Recognition Using Residual Activation Fish-Shaped Network for Human-Robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10218954). *The 8th International Conference on Advanced Robotics & Mechatronics (2023ICARM)*. IEEE, Sanya, China, 2023.
+
 - `2022` Yinan Zhao, **Qing Gao#**, Zhaojie Ju, Shiwu Lai, Fuzhang Luo. [Information Fusion Cascade Network for 3D Hand Pose Estimation Using Depth Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9991685). *2022 International Conference on High Performance Big Data and Intelligent Systems (HDIS)*. IEEE, Tianjin, China, 2022. 
 
 - `2022` **Qing Gao**, Zhaojie Ju. [A Lightweight Deep Learning Network for Mouth Cavity Object Visual Detection](https://ieeexplore.ieee.org/abstract/document/9991667). *2022 International Conference on High Performance Big Data and Intelligent Systems (HDIS)*. IEEE, Tianjin, China, 2022. 
