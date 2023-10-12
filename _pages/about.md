@@ -57,6 +57,8 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 ### Journals
 ---
 
+- `2023` **Qing Gao#**, Zhiwen Deng, Zhaojie Ju, Tianwei Zhang#. [Dual-Hand Motion Capture by Using Biological Inspiration for Bionic Bimanual Robot Teleoperation](https://spj.science.org/doi/epdf/10.34133/cbsystems.0052). *Cyborg and Bionic Systems*. 4, 2023: 0052.  
+
 - `2023` **Qing Gao**, Zhaojie Ju, Yongquan Chen, Qiwen Wang, Yinan Zhao, Shiwu Lai. [Parallel Dual-Hand Detection by Using Hand and Body Features for Robot Teleoperation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10059173). *IEEE Transactions on Human-Machine Systems*. 53(2), 2023: 417-426.  
   
 - `2023` Zhiwen Deng, **Qing Gao#**, Zhaojie Ju, Xiang Yu. [Skeleton-Based Multi-Features and Multi-Stream Network for Real-Time Action Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10051660). *IEEE Sensors Journal*. Early Access, DOI: 10.1109/JSEN.2023.3246133, 2023.   
