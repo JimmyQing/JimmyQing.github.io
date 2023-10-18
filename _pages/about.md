@@ -33,6 +33,9 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 **Interested in graduate studies, internships or collaborations? Contact me！**
 
 # 🔥 News
+- `2023.10.18` Our paper "Oropharynx Visual Detection by Using a Multi-attention Single Shot Multibox Detector for Human-Robot Collaborative Oropharynx Sampling" has been accepted by IEEE Transactions on Human-Machine Systems!
+- `2023.10.18` Our paper "Lightweight Feedforward Network for Skeleton-based Action Recognition Based on Information Sharing Mechanism" has been accepted by Pattern Recognition!
+- `2023.10.18` Our paper "GTFormer: 3D Driver Body Pose Estimation in Video with Graph Convolution Network and Transformer" has been accepted by IEEE Transactions on Intelligent Vehicles!
 - `2023.08.25` Our paper "Dual Hand Motion Capture by Using Biologically Inspiration for Bionic Bimanual Robot Teleoperation" has been accepted by Cyborg and Bionic Systems!
 - `2023.08.25` Our paper "Mouth Cavity Visual Analysis Based on Deep Learning for Oropharyngeal Swab Robot Sampling" has been accepted by IEEE Transactions on Human-Machine Systems! 
 - `2023.07.10` Our paper "Skeleton-based Multi-feature Sharing Real-time Action Recognition Network for Human-robot Interaction" won "Best Paper Award in Advanced Robotics" in the 2023 ICARM! 
@@ -56,6 +59,7 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 
 ### Journals
 ---
+- `2023` Rongtian Huo, Ye Zhang, Yulan Guo, Zhaojie Ju, **Qing Gao#**. [GTFormer: 3D Driver Body Pose Estimation in Video with Graph Convolution Network and Transformer](https://ieeexplore.ieee.org/abstract/document/10283987). *IEEE Transactions on Intelligent Vehicles*. DOI: 10.1109/TIV.2023.3324045, 2023.
 
 - `2023` **Qing Gao#**, Zhiwen Deng, Zhaojie Ju, Tianwei Zhang#. [Dual-Hand Motion Capture by Using Biological Inspiration for Bionic Bimanual Robot Teleoperation](https://spj.science.org/doi/epdf/10.34133/cbsystems.0052). *Cyborg and Bionic Systems*. 4, 2023: 0052.  
 
