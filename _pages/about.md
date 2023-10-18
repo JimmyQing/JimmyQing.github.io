@@ -59,6 +59,8 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 
 ### Journals
 ---
+- `2023` Yinan Zhao, **Qing Gao#**, Zhaojie Ju, Jian Zhou, Yulan Guo. [Sharing-Net: Lightweight Feedforward Network for Skeleton-based Action Recognition Based on Information Sharing Mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0031320323007471). *Pattern Recognition*. DOI: 10.1016/j.patcog.2023.110050, 2023.
+
 - `2023` Rongtian Huo, Ye Zhang, Yulan Guo, Zhaojie Ju, **Qing Gao#**. [GTFormer: 3D Driver Body Pose Estimation in Video with Graph Convolution Network and Transformer](https://ieeexplore.ieee.org/abstract/document/10283987). *IEEE Transactions on Intelligent Vehicles*. DOI: 10.1109/TIV.2023.3324045, 2023.
 
 - `2023` **Qing Gao#**, Zhiwen Deng, Zhaojie Ju, Tianwei Zhang#. [Dual-Hand Motion Capture by Using Biological Inspiration for Bionic Bimanual Robot Teleoperation](https://spj.science.org/doi/epdf/10.34133/cbsystems.0052). *Cyborg and Bionic Systems*. 4, 2023: 0052.  
