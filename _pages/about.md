@@ -233,7 +233,8 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 
 ### Supervisor for Postgraduates
 ---
-
+- Mingyu Zhang, Sun Yat-Sen University
+- Bohong Wu, Sun Yat-Sen University
 - Zengrong Lin, Sun Yat-Sen University
 - Jing Hu, Sun Yat-Sen University
 - Yinan Zhao, Tongji University
