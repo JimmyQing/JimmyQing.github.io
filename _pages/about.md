@@ -104,10 +104,17 @@ My research is dedicated to realizing the intelligent perception, cognition, and
   
 ### Conferences
 ---
+- `2023` Yuhang Xu, **Qing Gao#**, Xiang Yu, and Xin Zhang. [A Real-Time AGV Gesture Control Method Based on Body Part Detection](https://link.springer.com/chapter/10.1007/978-981-99-6498-7_17). *In International Conference on Intelligent Robotics and Applications (ICIRA)*. pp. 176-187, Springer, Hangzhou, China, 2023.
 
-- `2023` Zhiwen Deng, **Qing Gao#**, Xiang Yu, Zhaojie Ju, Junkang Chen. [Skeleton-based Multi-feature Sharing Real-time Action Recognition Network for Human-robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10218912). *The 8th International Conference on Advanced Robotics & Mechatronics (2023ICARM)*. IEEE, Sanya, China, 2023.
+- `2023` Rongtian Huo, **Qing Gao#**, Jing Qi, and Zhaojie Ju. [3D Human Pose Estimation in Video for Human-Computer/Robot Interaction](https://link.springer.com/chapter/10.1007/978-981-99-6498-7_16). *In International Conference on Intelligent Robotics and Applications (ICIRA)*. pp. 176-187, Springer, Hangzhou, China, 2023.
 
-- `2023` Yinan Zhao, **Qing Gao#**, Zhaojie Ju, Jian Zhou. [Skeleton-Based Action Recognition Using Residual Activation Fish-Shaped Network for Human-Robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10218954). *The 8th International Conference on Advanced Robotics & Mechatronics (2023ICARM)*. IEEE, Sanya, China, 2023.
+- `2023` Bohong Wu, Zhiwen Deng, **Qing Gao#**. [Dynamic Hand Gesture Recognition Based on Multi-skeletal Features for Sign Language Recognition System](https://link.springer.com/chapter/10.1007/978-981-99-6486-4_7). *In International Conference on Intelligent Robotics and Applications (ICIRA)*. pp. 79-91, Springer, Hangzhou, China, 2023.
+
+- `2023` Xiaowen You, **Qing Gao#**, Hongwei Gao, and Zhaojie Ju#. [A Feature Fusion Network for Skeleton-Based Gesture Recognition](https://link.springer.com/chapter/10.1007/978-981-99-6486-4_6). *In International Conference on Intelligent Robotics and Applications (ICIRA)*. pp. 67-78, Springer, Hangzhou, China, 2023.
+
+- `2023` Zhiwen Deng, **Qing Gao#**, Xiang Yu, Zhaojie Ju, Junkang Chen. [Skeleton-based Multi-feature Sharing Real-time Action Recognition Network for Human-robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10218912). *The 8th International Conference on Advanced Robotics & Mechatronics (2023ICARM)*. pp. 25-30, IEEE, Sanya, China, 2023.
+
+- `2023` Yinan Zhao, **Qing Gao#**, Zhaojie Ju, Jian Zhou. [Skeleton-Based Action Recognition Using Residual Activation Fish-Shaped Network for Human-Robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10218954). *The 8th International Conference on Advanced Robotics & Mechatronics (2023ICARM)*. pp. 803-808, IEEE, Sanya, China, 2023.
 
 - `2022` Yinan Zhao, **Qing Gao#**, Zhaojie Ju, Shiwu Lai, Fuzhang Luo. [Information Fusion Cascade Network for 3D Hand Pose Estimation Using Depth Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9991685). *2022 International Conference on High Performance Big Data and Intelligent Systems (HDIS)*. IEEE, Tianjin, China, 2022. 
 
