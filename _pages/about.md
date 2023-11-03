@@ -59,6 +59,10 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 
 ### Journals
 ---
+- `2023` **Qing Gao**, Yongquan Chen, Zhaojie Ju. [Oropharynx Visual Detection by Using a Multi-Attention Single-Shot Multibox Detector for Human–Robot Collaborative Oropharynx Sampling](https://ieeexplore.ieee.org/document/10304311). *IEEE Transactions on Human-Machine Systems*. DOI: 10.1109/THMS.2023.3324664, 2023.
+
+- `2023` **Qing Gao**, Zhaojie Ju, Yongquan Chen, Tianwei Zhang, Yuquan Leng. [Mouth Cavity Visual Analysis Based on Deep Learning for Oropharyngeal Swab Robot Sampling ](https://ieeexplore.ieee.org/document/10304315). *IEEE Transactions on Human-Machine Systems*. DOI: 10.1109/THMS.2023.3309256, 2023.
+
 - `2023` Yinan Zhao, **Qing Gao#**, Zhaojie Ju, Jian Zhou, Yulan Guo. [Sharing-Net: Lightweight Feedforward Network for Skeleton-based Action Recognition Based on Information Sharing Mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0031320323007471). *Pattern Recognition*. DOI: 10.1016/j.patcog.2023.110050, 2023.
 
 - `2023` Rongtian Huo, Ye Zhang, Yulan Guo, Zhaojie Ju, **Qing Gao#**. [GTFormer: 3D Driver Body Pose Estimation in Video with Graph Convolution Network and Transformer](https://ieeexplore.ieee.org/abstract/document/10283987). *IEEE Transactions on Intelligent Vehicles*. DOI: 10.1109/TIV.2023.3324045, 2023.
