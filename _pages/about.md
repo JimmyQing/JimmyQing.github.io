@@ -33,6 +33,7 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 **Interested in graduate studies, internships or collaborations? Contact me！**
 
 # 🔥 News
+- `2023.12.05` Our poster "A Lightweight 3D Skeleton Aware Gesture Recognition for Human-Robot Interaction" won "Excellent Poster Awards" in the 2023 IEEE RoBio-Workshop!
 - `2023.10.18` Our paper "Oropharynx Visual Detection by Using a Multi-attention Single Shot Multibox Detector for Human-Robot Collaborative Oropharynx Sampling" has been accepted by IEEE Transactions on Human-Machine Systems!
 - `2023.10.18` Our paper "Lightweight Feedforward Network for Skeleton-based Action Recognition Based on Information Sharing Mechanism" has been accepted by Pattern Recognition!
 - `2023.10.18` Our paper "GTFormer: 3D Driver Body Pose Estimation in Video with Graph Convolution Network and Transformer" has been accepted by IEEE Transactions on Intelligent Vehicles!
@@ -166,6 +167,7 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 
 
 # 🏅 Honors and Awards
+- `2023.12` Excellent Poster Awards, IEEE International Conference on Robotics and Biomimrtics - WORKSHOP (2023RoBio).
 - `2023.08` Best Paper Award in Advanced Robotics, International Conference on Advanced Robotics & Mechatronics (2023ICARM).
 - `2020.08` Shenlong High-level Talent, Level C, Longgang district, Shenzhen city.
 - `2020.06` Overseas High-Caliber Personnel, Level C, Shenzhen City.
