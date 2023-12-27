@@ -59,6 +59,10 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 
 ### Journals
 ---
+- `2023` Yimin Zhu, **Qing Gao(co-first author)**, Hongyan Shi, Jinguo Liu. [Gestures recognition based on multimodal fusion by using 3D CNNs]([https://arxiv.org/pdf/2303.05050.pdf](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs234791)). *Journal of Intelligent & Fuzzy Systems*. DOI: 10.3233/JIFS-234791, 2023.
+
+- `2023` Junjie Hu, Chenyou Fan, Liguang Zhou, **Qing Gao**, Honghai Liu, Tin Lun Lam. [Lifelong-MonoDepth: Lifelong Learning for Multi-Domain Monocular Metric Depth Estimation](https://arxiv.org/pdf/2303.05050.pdf). *IEEE Transactions on Neural Networks and Learning Systems*. DOI: 10.1109/TNNLS.2023.3323487, 2023.
+
 - `2023` **Qing Gao**, Yongquan Chen, Zhaojie Ju. [Oropharynx Visual Detection by Using a Multi-Attention Single-Shot Multibox Detector for Human–Robot Collaborative Oropharynx Sampling](https://ieeexplore.ieee.org/document/10304311). *IEEE Transactions on Human-Machine Systems*. DOI: 10.1109/THMS.2023.3324664, 2023.
 
 - `2023` **Qing Gao**, Zhaojie Ju, Yongquan Chen, Tianwei Zhang, Yuquan Leng. [Mouth Cavity Visual Analysis Based on Deep Learning for Oropharyngeal Swab Robot Sampling ](https://ieeexplore.ieee.org/document/10304315). *IEEE Transactions on Human-Machine Systems*. DOI: 10.1109/THMS.2023.3309256, 2023.
