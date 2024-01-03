@@ -60,6 +60,9 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 
 ### Journals
 ---
+
+- `2023` Zhiwen Deng, Yuquan Leng, Junkang Chen, Xiang Yu, Yang Zhang, **Qing Gao**. [TMS-Net: A multi-feature multi-stream multi-level information sharing network for skeleton-based sign language recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231223013176). *Neurocomputing*. DOI: 10.1016/j.neucom.2023.127194, 2023.
+
 - `2023` Yimin Zhu, **Qing Gao(co-first author)**, Hongyan Shi, Jinguo Liu. [Gestures recognition based on multimodal fusion by using 3D CNNs](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs234791). *Journal of Intelligent & Fuzzy Systems*. DOI: 10.3233/JIFS-234791, 2023.
 
 - `2023` Junjie Hu, Chenyou Fan, Liguang Zhou, **Qing Gao**, Honghai Liu, Tin Lun Lam. [Lifelong-MonoDepth: Lifelong Learning for Multi-Domain Monocular Metric Depth Estimation](https://arxiv.org/pdf/2303.05050.pdf). *IEEE Transactions on Neural Networks and Learning Systems*. DOI: 10.1109/TNNLS.2023.3323487, 2023.
