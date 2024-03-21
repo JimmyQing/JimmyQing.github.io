@@ -60,6 +60,7 @@ My research is dedicated to realizing the intelligent perception, cognition, and
 
 ### Journals
 ---
+- `2024` Yuhang Xu, Ye Zhang, Yuquan Leng, **Qing Gao#**. [AIP-Net: An anchor-free instance-level human part detection network](https://www.sciencedirect.com/science/article/abs/pii/S0925231224000250). *Neurocomputing*. 573, 2024: 127254.
 
 - `2023` Zhiwen Deng, Yuquan Leng, Junkang Chen, Xiang Yu, Yang Zhang, **Qing Gao#**. [TMS-Net: A multi-feature multi-stream multi-level information sharing network for skeleton-based sign language recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231223013176). *Neurocomputing*. DOI: 10.1016/j.neucom.2023.127194, 2023.
 
